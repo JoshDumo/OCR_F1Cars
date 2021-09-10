@@ -16,7 +16,11 @@ Once ready, these regions were passed to PyTesseract for OCR.
 
 ![OCR1](williamsOCR.png) ![OCR2](aramcoOCR.png)
 
-The results are very interesting, please see the inference images and video!
+
+I try out the inference on a short video clip. The detection of the liveries and billboards are shown in the GIF at the intro. Then the regions of interest in the video frames are passed to PyTesseract for OCR. The results are very interesting.
+![OCR3](FrameTextInference.png)
+
+Please check out the inference images and video!
 
 
 #### References
