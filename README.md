@@ -1,5 +1,5 @@
 # OCR of Formula 1 Car Liveries and Billboards
-![WPW_2021_Baku_4](https://user-images.githubusercontent.com/12131938/132286142-2b213162-d116-4faa-b434-93ddd3eb9122.png)
+![Inference GIF](MonzaInferenceSmallGIF.gif)
 
 A huge part of formula 1 is the advertizing through racetrack billboards and car liveries. I am interested in the 'visual value' of such adverts. The question is, "for a car livery or billboard, how many seconds does it appear in a video stream or clip etc?".
 
