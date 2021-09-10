@@ -16,9 +16,7 @@ Once ready, these regions were passed to PyTesseract for OCR.
 
 ![OCR1](williamsOCR.png) ![OCR2](aramcoOCR.png)
 
-The results are very interesting!
-
-So far, this works for static images. Next to do is video.
+The results are very interesting, please see the inference images and video!
 
 
 #### References
